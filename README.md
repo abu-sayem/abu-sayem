@@ -41,6 +41,6 @@ side stack:
             - Django Template Engine
         DevOps & Deployment:
 	    - Webservers and Tools: Kubernetes
-	    -  AWS: EC2, RDS, S3
-	    -  Digital Ocean, Heroku: Setup and config web apps and APIs for deployment.
+	    - AWS: EC2, RDS, S3
+	    - igital Ocean, Heroku: Setup and config web apps and APIs for deployment.
 ```
