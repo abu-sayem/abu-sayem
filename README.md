@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**abu-sayem/abu-sayem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sayem 👋🏾 👩🏾‍💻
 
-Here are some ideas to get you started:
+<img src="https://github.com/abu-sayem/abu-sayem/blob/main/gh-header.png" alt="banner that says Abu Sayem - software engineer, technology enthugiast">
+I'm  architecting and building out systems with Python and Django. I have more than 2 years of experience developing and managing web applications using Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am able to create and manage robust, performant, and scalable production systems from the beginning to deployment with following the best practices.
+
+I am equally comfortable with both the client and server sides of web app development. I am proficient in building RESTful API web services. I have experience in Frontend framework Flutter React.js and Redux. 
+
+Passionate about competitive Programming.Interested in devising better problem solving methods for challenging tasks and learning new technologies if needed arise.
+
+
+## Find me around the web 🌎:
+- Learning Practiceing data-structure, algorithms in <a href="https://leetcode.com/neonwave/">Leetcode</a> 📹 ✍🏾
+- Sharing updates on <a href="https://www.linkedin.com/in/abusaayem/">LinkedIn</a> 💼
+-  <a href="https://stackoverflow.com/users/12792869/abu-sayem"> Stackoverflow profile</a> 🏓
