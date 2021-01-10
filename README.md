@@ -36,13 +36,10 @@ main stack:
 side stack:
     Language:
         - Golang
-    Frontend:
-        Javascript Libs and Frameworks:
-            - React.js(Main), Typescript, Redux
-        Template Engine:
-            - Django Template Engine
-        DevOps & Deployment:
-	    - Webservers and Tools: Kubernetes
-	    - AWS: EC2, RDS, S3
-	    - Digital Ocean, Heroku: Setup and config web apps and APIs for deployment.
+    Javascript Libs and Frameworks:
+        - React.js(Main), Typescript, Redux
+    DevOps & Deployment:
+	- Webservers and Tools: Kubernetes
+	- AWS: EC2, RDS, S3
+	- Digital Ocean, Heroku: Setup and config web apps and APIs for deployment.
 ```
