@@ -34,6 +34,8 @@ main stack:
         - Webservers and Tools: Nginx, Gunicorn, Docker
      
 side stack:
+    Language:
+        - Golang
     Frontend:
         Javascript Libs and Frameworks:
             - React.js(Main), Typescript, Redux
