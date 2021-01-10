@@ -42,5 +42,5 @@ side stack:
         DevOps & Deployment:
 	    - Webservers and Tools: Kubernetes
 	    - AWS: EC2, RDS, S3
-	    - igital Ocean, Heroku: Setup and config web apps and APIs for deployment.
+	    - Digital Ocean, Heroku: Setup and config web apps and APIs for deployment.
 ```
