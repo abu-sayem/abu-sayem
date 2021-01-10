@@ -20,27 +20,27 @@ Passionate about competitive Programming.Interested in devising better problem s
 My Current Stack:
 ```
 main stack:
-	Language:
-		- Python, Javascript
-	Frameworks: 
-		- django, django-rest-frameworks, react
-	Database: 
-		- PostgreSQ,MySQL, MongoDB, Redis
-	Testing APIs: 
-		- Postman, Insomonia
+    Language:
+	- Python, Javascript
+    Frameworks: 
+	- django, django-rest-frameworks, react
+    Database: 
+	- PostgreSQ,MySQL, MongoDB, Redis
+    Testing APIs: 
+	- Postman, Insomonia
     Operating System:
-	    - Linux, Ubuntu Desktop, Ubuntu Server
+        - Linux, Ubuntu Desktop, Ubuntu Server
     DevOps & Deployment:
-      - Webservers and Tools: Nginx, Gunicorn, Docker
+        - Webservers and Tools: Nginx, Gunicorn, Docker
      
 side stack:
     Frontend:
-      Javascript Libs and Frameworks:
-         - React.js(Main), Typescript, Redux
-      Template Engine:
-        - Django Template Engine
-	  DevOps & Deployment:
-	     - Webservers and Tools: Kubernetes
-	     -  AWS: EC2, RDS, S3
-	     -  Digital Ocean, Heroku: Setup and config web apps and APIs for deployment.
+        Javascript Libs and Frameworks:
+            - React.js(Main), Typescript, Redux
+        Template Engine:
+            - Django Template Engine
+        DevOps & Deployment:
+	    - Webservers and Tools: Kubernetes
+	    -  AWS: EC2, RDS, S3
+	    -  Digital Ocean, Heroku: Setup and config web apps and APIs for deployment.
 ```
