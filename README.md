@@ -16,3 +16,31 @@ Passionate about competitive Programming.Interested in devising better problem s
 - Learning Practiceing data-structure, algorithms in <a href="https://leetcode.com/neonwave/">Leetcode</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/abusaayem/">LinkedIn</a> 💼
 -  <a href="https://stackoverflow.com/users/12792869/abu-sayem"> Stackoverflow profile</a> 🏓
+
+My Current Stack:
+```
+main stack:
+	Language:
+		- Python, Javascript
+	Frameworks: 
+		- django, django-rest-frameworks, react
+	Database: 
+		- PostgreSQ,MySQL, MongoDB, Redis
+	Testing APIs: 
+		- Postman, Insomonia
+    Operating System:
+	    - Linux, Ubuntu Desktop, Ubuntu Server
+    DevOps & Deployment:
+      - Webservers and Tools: Nginx, Gunicorn, Docker
+     
+side stack:
+    Frontend:
+      Javascript Libs and Frameworks:
+         - React.js(Main), Typescript, Redux
+      Template Engine:
+        - Django Template Engine
+	  DevOps & Deployment:
+	     - Webservers and Tools: Kubernetes
+	     -  AWS: EC2, RDS, S3
+	     -  Digital Ocean, Heroku: Setup and config web apps and APIs for deployment.
+```
