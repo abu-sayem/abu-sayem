@@ -34,12 +34,10 @@ main stack:
         - Webservers and Tools: Nginx, Gunicorn, Docker
      
 side stack:
-    Language:
-        - Golang
     Javascript Libs and Frameworks:
-        - React.js(Main), Typescript, Redux
+        - React.js, Redux
     DevOps & Deployment:
-	- Webservers and Tools: Kubernetes
-	- AWS: EC2, RDS, S3
-	- Digital Ocean, Heroku: Setup and config web apps and APIs for deployment.
+	- Webservers and Tools: 
+	- Kubernetes, AWS
+	- Heroku: Setup and config web apps and APIs for deployment.
 ```
