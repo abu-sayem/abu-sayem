@@ -9,7 +9,7 @@ I am able to create and manage robust, performant, and scalable production syste
 
 I am equally comfortable with both the client and server sides of web app development. I am proficient in building RESTful API web services. I have experience in Frontend framework Flutter React.js and Redux. 
 
-Passionate about competitive Programming.Interested in devising better problem solving methods for challenging tasks and learning new technologies if needed arise.
+I am Open Source enthusiast, fast learner, early adopter, explorer, deeply driven and self motivated software craftsman assionate about problem solving.Interested in devising better problem solving methods for challenging tasks and learning new technologies if needed arise.
 
 
 ## Find me around the web 🌎:
@@ -20,6 +20,7 @@ Passionate about competitive Programming.Interested in devising better problem s
 
 ## Notes 🌎:
 [SOLID Design Principle's in Python](https://www.notion.so/neonwave/SOLID-Design-Principle-s-in-Python-40ed046a9c8148159921fb1cbb4d5eee)
+
 [System design Fundamentals](https://www.notion.so/neonwave/System-design-Fundamentals-f32057fb39ef47e5996adbd86519f838)
 
 My Current Stack:
