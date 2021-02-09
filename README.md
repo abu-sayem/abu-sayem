@@ -25,19 +25,18 @@ I am Open Source enthusiast, fast learner, early adopter, explorer, deeply drive
 
 My Current Stack:
 ```
-main stack:
-    Language:
-	- Python, Javascript
-    Frameworks: 
-	- django, django-rest-frameworks, react
-    Database: 
-	- PostgreSQ,MySQL, MongoDB, Redis
-    Testing APIs: 
-	- Postman, Insomonia
-    Operating System:
-        - Linux, Ubuntu Desktop, Ubuntu Server
-    DevOps & Deployment:
-        - Webservers and Tools: Nginx, Gunicorn, Docker, AWS, Kubernetes
-        - Heroku: Setup and config web apps and APIs for deployment.
+Language:
+    - Python, Javascript, Golang
+Frameworks: 
+    - django, django-rest-frameworks, react
+Database: 
+    - PostgreSQ,MySQL, MongoDB, Redis
+Testing APIs: 
+    - Postman, Insomonia
+Operating System:
+    - Linux, Ubuntu Desktop, Ubuntu Server
+DevOps & Deployment:
+    - Webservers and Tools: Nginx, Gunicorn, Docker, AWS, Kubernetes
+    - Heroku: Setup and config web apps and APIs for deployment.
      
 ```
