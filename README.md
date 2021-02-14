@@ -36,7 +36,7 @@ Testing APIs:
 Operating System:
     - Linux, Ubuntu Desktop, Ubuntu Server
 DevOps & Deployment:
-    - Webservers and Tools: Nginx, Gunicorn, Docker, AWS, Kubernetes
+    - Webservers and Tools: Nginx, Gunicorn, Docker, AWS.
     - Heroku: Setup and config web apps and APIs for deployment.
      
 ```
