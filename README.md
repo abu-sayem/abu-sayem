@@ -18,7 +18,7 @@ I am Open Source enthusiast, fast learner, early adopter, explorer, deeply drive
 - <a href="https://twitter.com/__sayem"> Twitter profile</a> 🏓 -->
 
 
-## Notes 🌎:
+<!-- ## Notes 🌎: -->
 <!-- [SOLID Design Principle's in Python](https://www.notion.so/neonwave/SOLID-Design-Principle-s-in-Python-40ed046a9c8148159921fb1cbb4d5eee)
 
 [System design Fundamentals](https://www.notion.so/neonwave/System-design-Fundamentals-f32057fb39ef47e5996adbd86519f838) -->
