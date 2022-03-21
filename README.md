@@ -1,21 +1,19 @@
-### Hi there 👋
+### Hi there :wave: Thank for your visit.
 
-# Hi, I'm Sayem 👋🏾 👩🏾‍💻
+<h1 align="center">I'm Abu Sayem</h1>
 
-<!-- <img src="https://github.com/abu-sayem/abu-sayem/blob/main/gh-header.png" alt="banner that says Abu Sayem - software engineer, technology enthugiast"> -->
-I'm  architecting and building out systems with Python and Django. I have more than 2 years of experience developing and managing web applications using Django.
+<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-I am able to create and manage robust, performant, and scalable production systems from the beginning to deployment with following the best practices.
+- 🔭 I’m currently working on **Python, Django as a Back-end Software Engineer.**
 
-I am equally comfortable with both the client and server sides of web app development. I am proficient in building RESTful API web services. I have experience in Frontend framework Flutter React.js and Redux. 
+- 🌱 I’m currently learning **Go, Kubernetes in-depth to be a better a Programmer.**
 
-I am Open Source enthusiast, fast learner, early adopter, explorer, deeply driven and self motivated software craftsman assionate about problem solving.Interested in devising better problem solving methods for challenging tasks and learning new technologies if needed arise.
+- 📫 How to reach me **abusaayem@gmail.com**
 
-
-<!-- ## Find me around the web 🌎:
+## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/abusaayem/">LinkedIn</a> 💼
 - <a href="https://stackoverflow.com/users/12792869/abu-sayem"> Stackoverflow profile</a> 🏓
-- <a href="https://twitter.com/__sayem"> Twitter profile</a> 🏓 -->
+- <a href="https://twitter.com/__sayem"> Twitter profile</a> 🏓
 
 
 <!-- ## Notes 🌎: -->
